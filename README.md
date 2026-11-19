@@ -34,13 +34,13 @@ This project uses the CDC PLACES county-level dataset. The analysis focuses on a
 ## Visualizations
 
 ### Distribution of Obesity Across Counties
-![Histogram](histogram.png)
+![Histogram](figures/histogram.png)
 
 ### Average Obesity by State
-![State Plot](state_plot.png)
+![State Plot](figures/state_plot.png)
 
 ### Top 10 Counties by Obesity Prevalence
-![Top Counties](top_counties.png)
+![Top Counties](figures/top_counties.png)
 
 ## Limitations
 
